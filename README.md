@@ -12,7 +12,9 @@
 
 ## Code solution :
 
-                        object main{
+                                              
+                                               
+                                               object main{
                       
                           class Number(var value:Int){
                       
@@ -23,6 +25,15 @@
                             def sum(n:Number):Unit={
                               println(value+n.value)
                             }
+                      
+                            def isGreater(n:Number):Boolean={
+                              if(n.value<value){
+                                return true
+                              }
+                              else{
+                                return false
+                              }
+                            }
                           }
                           def main(args: Array[String]): Unit ={
                             var n1 = new Number(10)
@@ -30,11 +41,12 @@
                             var n3 = new Number(30)
                       
                             n1.sum(n3)
+                            println(n1.isGreater(n2))
                             
                           }
                         }
 
-
+                        
 
 # function call
 
