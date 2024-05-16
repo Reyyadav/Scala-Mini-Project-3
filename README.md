@@ -58,3 +58,19 @@
 
 
 ![Screenshot 2024-05-16 121245](https://github.com/Reyyadav/Scala-Mini-Project-3/assets/153619494/6076ca99-1f20-4f0e-9a31-adf11fd52627)
+
+
+
+# IsGreater value
+
+
+![Screenshot 2024-05-16 123430](https://github.com/Reyyadav/Scala-Mini-Project-3/assets/153619494/2863e259-1dc4-4e89-ad97-bca9df3a20e5)
+
+
+
+# Output
+
+
+![Screenshot 2024-05-16 123416](https://github.com/Reyyadav/Scala-Mini-Project-3/assets/153619494/92bf3fbf-5985-4d97-8e29-313b9f7224e0)
+
+
